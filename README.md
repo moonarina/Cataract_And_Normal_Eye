@@ -30,4 +30,5 @@ Comparing Transfer Learning and CNN has been a fascinating exploration that has 
 2. The training phase of the baseline model proved to be more consistent and faster compared to our own neural network.
 3. Although our custom-built neural network may have room for improvement, it's noteworthy how effortless and efficient it was to utilize the baseline model. Building a network from scratch, fine-tuning it, and achieving comparable or better results can be challenging.
 4. Therefore, it is highly recommended to leverage the power of baseline models with CNN before attempting to create a custom network. This approach can potentially save a significant amount of time and effort while still yielding satisfactory outcomes.
+   
 By considering these insights, researchers and practitioners can make informed decisions when selecting the appropriate approach for their specific tasks.
