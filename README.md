@@ -2,6 +2,7 @@
 
 ### Data Image Classification
 ![Screenshot from 2023-06-22 22-44-50](https://github.com/moonarina/Cataract_And_Normal_Eye_Image_Classification/assets/114307876/e1a9f0a0-fc10-4a7c-a7f4-7b4b65ef240c)
+
 Source Image: https://thea.ua/en/your-eye-health/cataract/
 
 In this notebook, I will focus on two classes from the dataset: cataract and normal eye. The objective is to compare the process of building and training a neural network from scratch with using Convolutional Neural Network (CNN) and Transfer Learning. The comparison will be based on several factors, including training time, ease of creation, accuracy, and consistency. By conducting this analysis, we aim to assess the advantages and disadvantages of each approach to determine the most suitable method for the given task.
