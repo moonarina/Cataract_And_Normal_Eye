@@ -1,4 +1,4 @@
-# About this notebook
+# About The Notebook
 
 ### Data Image Classification
 ![Screenshot from 2023-06-22 22-44-50](https://github.com/moonarina/Cataract_And_Normal_Eye_Image_Classification/assets/114307876/e1a9f0a0-fc10-4a7c-a7f4-7b4b65ef240c)
